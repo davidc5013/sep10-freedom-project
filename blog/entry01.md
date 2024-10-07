@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+# What topic should i choose? (Cars)
+##### 10/07/2024
 
-Text
+choosing a topic
 
 [Next](entry02.md)
 
