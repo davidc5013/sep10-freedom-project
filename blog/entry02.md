@@ -1,8 +1,9 @@
 # Entry 2
-##### X/X/XX
+##### NOV/04/2024
 
-Text
-
+### CONTENT
+Like i said in the previous entry,Physical health and fitness are very important to everybody lifes.
+---
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
