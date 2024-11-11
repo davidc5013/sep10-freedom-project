@@ -9,7 +9,7 @@ Like i said in the previous entry,Physical health and fitness are very important
 * Planet fitness app
 * Gym Master
  
- On how i found these software apps was by first searching up on google "Fitness app" and after that i started looking around and it gave me a list on softwares,But then i stumble upon a article [I tried](https://parade.com/health/apple-fitness-plus-review) and it was about the author of article trying out the apple fitness app and plus which is just a "premium" version of it. it has its benefits and cons such as:
+ On how i found these software apps was by first searching up on google "Fitness app" and after that i started looking around and it gave me a list on softwares,But then i stumble upon a article [I Tried Apple Fitness Plus—Here's My Honest Review](https://parade.com/health/apple-fitness-plus-review) and it was about the author of article trying out the apple fitness app and plus which is just a "premium" version of it. it has its benefits and cons such as:
 
  * The solid pros are
 * Make its easy for a individual to workout
