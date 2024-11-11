@@ -17,6 +17,11 @@ Like i said in the previous entry,Physical health and fitness are very important
 * Cons: It's only exclusive to apple products
 * The longest classes are 45 minutes long which from some people its not that long.
 
+So after reading the article, i decided to look around the website to see if there is any articles or ads that are relevant to my topic, then a advertisement pop of [planet fitness](https://www.planetfitness.com/mobileapp).In the app pros:
+* The ability to let you know if your near planet fitness is busy or free-
+* The app has qr codes so when you enter the code, you'll enter the gym faster.
+* They also have workouts based on your level of fitness.
+* Cons: there's not that much features on the app so its limited
 
 
 
