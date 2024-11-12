@@ -31,10 +31,35 @@ So after reading the article, i decided to look around the website to see if the
 * Cons: The ai generator and other benefits cost a bit more.
 * The ai generator is powered by chat gpt
 * its okay generator but just like wikipedia its a okay starting point.
+ And thats all i collected for software on my topic.
 
-  And thats all i collected for software on my topic.
+   Hard ware
   ---
   
+Then after the monday where we researched about software it was the same for hardware. So i started searching up fitness gadgets and one option that was pretty cool was called ["Tonal"](https://www.tonal.com/blog/), Tonal is a hardware home gym muscle build machine.The machine uses technology to keep track your progress and make it easy.The pros of tonal is: 
+* It helps keep track on your progress
+* Allows you to work from home
+* Its like a software within the machine itself so you choose workouts
+* The machine has up to 200 pounds of weight for working out
+Custom program
+* Up to 245 adoptive movements
+cons:
+* Not affordable for many people
+* For bodybuilding or anything very serious, 200 pounds isn't the best max
+* You also have to buy the program and fiance purchase is also not cheap
+* You would have the buy more accessories
+
+Then i went to search "physical fitness tech gadget"s As i was scrolling through the options, the same one where i found Tonal, i stumble across something called [Smart Jump Rope](https://tangramfactory.com/smartrope/en/), The smart jump rope is like a regular jump rope BUT in the name it says smart, and advanced since it has technology.The benefits:
+* It keep tracks of the amount times you jump
+* Also track your progress on how active you are
+* LED lights within the jump rope
+* You can use it for 30 days based on 1 charge
+* You can have small fun competitions thru the app
+Cons
+* There's not that much difference between this one and a regular one
+* The jump rope itself a bit pricey 199-299 w/o the membership
+In my opnion its an okay product, there is not much difference between this and a regular jump rope, but it depends on the person if they want to check their progress but you can do it as well with a regular jump rope, Thats around it for my hardware exploration.
+
 
 
 
