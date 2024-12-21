@@ -11,11 +11,7 @@ When i was thinking of that invention i feel like, i had to think of one more fo
 
 #### Finalizing my planning
 
-Now once i created my brainstorming, i would have to add it with my part A that includes my intro/context and all the things i have researched into mini categories like workouts at home and gym workouts which is pretty self-explain. somethings that i found was [tonal](https://www.tonal.com/about/) ands it like muscle, strength building machine that works in alot of things and even Lebron James sponsered it. Another thing that i found pretty cool is the [NordicTrack RW900 Rowing Machine](https://www.healthline.com/health/fitness/hydrow-review#what-it-is) which is a rowing machine but it has a 24 inch screen you it will keep track on your progress while working out and all other workouts you did. and the other categories was gym workout where its more like apps that can only be used while your at the gym for an example [GymMaster](https://www.gymmaster.com/#:~:text=GymMaster%20is%20gym%20management%20software,members%20at%20the%20right%20time) where you can book classes with couches, put in your records and even have access to most gyms that work with gymmaster.
-
-### TakeAways
-Theres not really much to ta
-
+Now once i created my brainstorming, i would have to add it with my part A that includes my intro/context and all the things i have researched into mini categories like workouts at home and gym workouts which is pretty self-explain. somethings that i found was [tonal](https://www.tonal.com/about/) ands it like muscle, strength building machine that works in alot of things and even Lebron James sponsered it. Another thing that i found pretty cool is the [NordicTrack RW900 Rowing Machine](https://www.healthline.com/health/fitness/hydrow-review#what-it-is) which is a rowing machine but it has a 24 inch screen you it will keep track on your progress while working out and all other workouts you did. and the other categories was gym workout where its more like apps that can only be used while your at the gym for an example [GymMaster](https://www.gymmaster.com/#:~:text=GymMaster%20is%20gym%20management%20software,members%20at%20the%20right%20time) where you can book classes with couches, put in your records and 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
