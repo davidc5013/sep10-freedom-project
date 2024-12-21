@@ -9,7 +9,7 @@ When i was thinking of that invention i feel like, i had to think of one more fo
 
 #### Finalizing my planning
 
-Now once i created my brainstorming, i would have to add it with my part A that includes my intro/context and all the things i have researched into mini categories like workouts at home and gym workouts which is pretty self-explain. somethings that i found was (tonal9)[https://www.tonal.com/about/]
+Now once i created my brainstorming, i would have to add it with my part A that includes my intro/context and all the things i have researched into mini categories like workouts at home and gym workouts which is pretty self-explain. somethings that i found was 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
