@@ -3,7 +3,9 @@
 ## Tool: Animation
 ### 3/8/2025
 
-* Hello
+* For some reason while tinkering with animation and making it to repeat it wouldnt work with `class` or ` @Keyframe`
+*  So i used `animation-iteration-count` to replace that code and it actually worked so it would look like for an example
+*  
 
 
 ---
