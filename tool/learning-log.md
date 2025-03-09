@@ -5,7 +5,10 @@
 
 * For some reason while tinkering with animation and making it to repeat it wouldnt work with `class` or ` @Keyframe`
 *  So i used `animation-iteration-count` to replace that code and it actually worked so it would look like for an example
-*  
+*  ` animation:heartBeat; 
+  animation-duration: 3s;
+  animation-iteration-count: `
+* 
 
 
 ---
