@@ -8,8 +8,7 @@
 *  ` animation:heartBeat;
   animation-duration: 3s;
   animation-iteration-count: `
-*  Also while tinkering it was recently today i wanted to see if my old notes would still work, `hovering`, `background-color` so once i tried it actually worked so its good to know
-* the way i looked through my hard work was my SEP NOTES and {Freecodecamp}[https://www.freecodecamp.org/learn/responsive-web-design]
+*  Also while tinkering it was recently today i wanted to see if my old notes would still work, `hovering`, `background-color` so once i tried it actually worked so its good to know[McDonald's](http://www.mcdonalds.com/)
 * My only question is why the `animation-duration`, `animation-delay` and `animation-repeat` dont work.
 * Thats all for today, Have a pepermint day❗️
 
