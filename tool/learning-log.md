@@ -15,8 +15,16 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 3/16/25:
+* Hello again, today i was exploring [Freecodecamp]{https://www.freecodecamp.org/learn/responsive-web-design} lessons on CSS to look around, and it caught my eye to make objects move.
+* At first i wanted to make images aminated but I couldn´t get it, but ill retry it on another log.
+Today i wanted to talk about moving objects animated. Mostly the square changing color and moving not the circle, thats for another log.
+* While tinkering with the CSS, In order for the box to move it need to be a postion of relative which is this code
+`postion:relative;` and i didn´t realize until i looked the example, If there was no `position` it would stay as the orignal background
+* Also while doing the `@keyframes` you have to use the `percentage` to move it. You can move the object in anyway how but using `top,left,right,bottom`.
+* Heres a SS of some of my code i did
+<img scr="image.png" alt=image>
+* Thats all i did for today, i still want to know how i can make images animated
 
 ### X/X/XX:
 * Text
