@@ -24,7 +24,8 @@ Today i wanted to talk about moving objects animated. Mostly the square changing
 * Also while doing the `@keyframes` you have to use the `percentage` to move it. You can move the object in anyway how but using `top,left,right,bottom`.
 * Heres a SS of some of my code i did
 <img scr="image.png" alt=image>
-* Thats all i did for today, i still want to know how i can make images animated
+* Thats all i did for today, i still want to know how i can make images animated?
+* Have a peppermint day!
 
 ### X/X/XX:
 * Text
