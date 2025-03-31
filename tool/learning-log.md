@@ -27,7 +27,7 @@ Today i wanted to talk about moving objects animated. Mostly the square changing
 * Thats all i did for today, i still want to know how i can make images animated?
 * Have a peppermint day!
 
-### X/X/XX:
+### 03/24/2025:
 * Text
 
 

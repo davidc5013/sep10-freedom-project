@@ -11,6 +11,12 @@
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <style>
+h1{
+  text-align:center;
+
+}
+
+
 .hello {
   display: inline-block;
 
@@ -25,8 +31,11 @@
     animation-iteration-count: 3;
 
 }
+
+
+/* The changing color box, rect */
  div {
-    height: 40px;
+    height: 100px;
     width: 70%;
     background: black;
     margin: 50px auto;
@@ -39,7 +48,7 @@ animation-iteration-count:infinite;
   }
 @keyframes rainbow {
 0%{
-      background-color:blue;
+      background-color:#91BAD6;
   }
 50%{
       background-color:green;
@@ -61,10 +70,12 @@ animation-iteration-count:infinite;
     position: fixed;
     width: 100px;
     height: 100px;
-    margin-top: 200px;
+    margin-top: 250px;
     animation-name: bounce;
     animation-duration: 7s;
     animation-iteration-count: infinite;
+    border-style:solid;
+    border-width:10px;
   }
   @keyframes bounce {
     0% {
@@ -90,7 +101,7 @@ animation-iteration-count:infinite;
 
   @keyframes peppermint {
   0% {
-    background-color: blue;
+    background-color:#91BAD6;
     top: 5px;
     right:5px;
   }
@@ -115,21 +126,33 @@ animation-iteration-count:infinite;
     right:-5px;
   }
 }
+
 </style>
 </style>
 
     </head>
     <body>
         <!-- HTML -->
-        <h1 class="hello">Hello i like philly cheese steak</h1>
+        <h1 class="hello">Hello to my tinkering world</h1>
         <h1 class= "animate__animated animate__backInDown">
-            sigma sigma sigma
+            Hello hello
         </h1>
 
-        <div id="rect"> Hello</div>
+        <div id="rect"> Well hello, Im not sure why im typing this, its like my diary of animation. Im trying to make it organized so its easy for me or anybody else reading this.</div>
+            <div id="movingball"></div>
+                 <div id="peppermint"></div>
 
-      <div id="movingball"></div>
-      <div id="peppermint"></div>
+        <img scr="image.png"alt="an image that somehow dont work">
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam purus augue, dictum eget justo eu, gravida vestibulum nisl. Vivamus eu nulla ut libero commodo iaculis. Maecenas hendrerit sagittis turpis, a volutpat est. Donec auctor blandit metus, sed facilisis quam cursus a. Suspendisse potenti. Donec lacinia gravida lorem, vitae blandit elit ullamcorper in. Integer dictum elementum tortor eu feugiat. Vestibulum mattis sem vulputate purus interdum, a cursus neque semper. Donec magna nibh, tristique et tellus sed, euismod posuere ipsum. Nullam faucibus libero varius odio suscipit, nec vestibulum lorem fermentum. Aliquam eu lectus sed velit dignissim ultricies at sit amet dui. Suspendisse eget arcu ut magna posuere posuere eu eget dui. Ut varius velit at diam egestas, eget consequat urna consequat. Sed vulputate nunc eu tortor posuere fringilla. Etiam vel tristique metus.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam purus augue, dictum eget justo eu, gravida vestibulum nisl. Vivamus eu nulla ut libero commodo iaculis. Maecenas hendrerit sagittis turpis, a volutpat est. Donec auctor blandit metus, sed facilisis quam cursus a. Suspendisse potenti. Donec lacinia gravida lorem, vitae blandit elit ullamcorper in. Integer dictum elementum tortor eu feugiat. Vestibulum mattis sem vulputate purus interdum, a cursus neque semper. Donec magna nibh, tristique et tellus sed, euismod posuere ipsum. Nullam faucibus libero varius odio suscipit, nec vestibulum lorem fermentum. Aliquam eu lectus sed velit dignissim ultricies at sit amet dui. Suspendisse eget arcu ut magna posuere posuere eu eget dui. Ut varius velit at diam egestas, eget consequat urna consequat. Sed vulputate nunc eu tortor posuere fringilla. Etiam vel tristique metus.
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam purus augue, dictum eget justo eu, gravida vestibulum nisl. Vivamus eu nulla ut libero commodo iaculis. Maecenas hendrerit sagittis turpis, a volutpat est. Donec auctor blandit metus, sed facilisis quam cursus a. Suspendisse potenti. Donec lacinia gravida lorem, vitae blandit elit ullamcorper in. Integer dictum elementum tortor eu feugiat. Vestibulum mattis sem vulputate purus interdum, a cursus neque semper. Donec magna nibh, tristique et tellus sed, euismod posuere ipsum. Nullam faucibus libero varius odio suscipit, nec vestibulum lorem fermentum. Aliquam eu lectus sed velit dignissim ultricies at sit amet dui. Suspendisse eget arcu ut magna posuere posuere eu eget dui. Ut varius velit at diam egestas, eget consequat urna consequat. Sed vulputate nunc eu tortor posuere fringilla. Etiam vel tristique metus.
+
+
+        </p>
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
@@ -137,5 +160,6 @@ animation-iteration-count:infinite;
 
 
         </script>
+        
     </body>
 </html>
