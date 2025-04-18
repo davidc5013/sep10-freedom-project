@@ -131,18 +131,26 @@ animation-iteration-count:infinite;
 
 
 
-img{
-  width:500px;
-  height:500px;
-  display: block;
-  margin: auto;
-}
+
+
 
 </style>
 
     </head>
     <body>
         <!-- HTML -->
+
+        <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+          <div class="container-fluid" >
+            <a class="navbar-brand" href="#">
+              <img src="spiderman.jpg" alt="Logo" width="60" height="50" class= "animate__animated animate__backInDown">
+              animation navbar
+            </a>
+          </div>
+        </nav>
+
+
+
         <h1 class="hello">Hello to my tinkering world</h1>
         <h1 class= "animate__animated animate__backInDown">
             Hello hello
@@ -173,7 +181,7 @@ img{
     </div>
 
      <div class="col-md-6">
-      <img src="spiderman.jpg" alt="sigma" class="animate__animated animate__backInUp" >
+      <img src="spiderman.jpg" alt="sigma" class="animate__animated animate__backInUp" class="image" >
      </div>
  </div>
 </div>
@@ -181,7 +189,12 @@ img{
 
         <h1 class="wow animate__animated animate__backInRight">wow js Title testing</h1>
 
-
+        <div class="card" style="width: 18rem;">
+          <img src="spiderman.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
