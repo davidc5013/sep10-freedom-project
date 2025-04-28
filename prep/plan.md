@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/LFrkyI)
 
 ## Colors
-* `#ABC123`
+* `#`
 
 ## Fonts
 * [Text](URL)
