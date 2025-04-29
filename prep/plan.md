@@ -9,7 +9,13 @@
 * `#E2E2D8` for background of whole thing
 * `#1B2A35` fonts
 ## Fonts
-* [Text](URL)
+* [font for title]((html head)<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap" rel="stylesheet">)()
+
+
+
+
 
 ## Timeline
 
