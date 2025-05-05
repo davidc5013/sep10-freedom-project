@@ -204,5 +204,25 @@
 
 
         </script>
+
+ <script>
+
+
+               document.addEventListener('DOMContentLoaded', function () {
+          // Initialize WOW.js
+          var wow = new WOW({
+              boxClass: 'wow',        // Default class to trigger animations
+              animateClass: 'animate__animated',  // Default animation class to use
+              offset: 200,            // Offset (distance from the bottom of the screen to trigger animation)
+              mobile: true,           // Enable animations on mobile
+              live: true              // Dynamically added content will be animated
+          });
+          wow.init();
+      });
+
+
+        </script>
+
+
     </body>
 </html>
