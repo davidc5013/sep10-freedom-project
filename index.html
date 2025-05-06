@@ -161,10 +161,10 @@
   }
 
   button:hover {
-    animation-name: background-color;
+    animation-name: card1color;
     animation-duration: 500ms;
   }
-  @keyframes background-color{
+  @keyframes card1color{
   100%{
   background-color:#826791;
   }
@@ -181,16 +181,36 @@
   }
 
   button:hover {
-    animation-name: background-color;
+    animation-name: card2color;
     animation-duration: 500ms;
   }
-  @keyframes background-color{
+  @keyframes card2color{
   100%{
   background-color:#826791;
   }
 
   }
 
+
+
+  .button3 {
+    border-radius: 5px;
+    color: #D4B99E;
+    background-color: #928997;
+    padding: 5px 10px 8px 10px;
+    margin-left:15px;
+  }
+
+  button:hover {
+    animation-name: card3color;
+    animation-duration: 500ms;
+  }
+  @keyframes card3color{
+  100%{
+  background-color:#826791;
+  }
+
+  }
 
 
 
@@ -346,7 +366,7 @@
                         <div class="card-body">
                           <h4 class="card-title2">Smart JumpRope</h4>
                           <p class="d-inline-flex gap-1">
-                            <button class="button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
+                            <button class="button2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
                                 Button with data-bs-target
                               </button>
                             </p>
@@ -356,16 +376,26 @@
                                 </div>
                               </div>
                         </div>
-                      </div>
-
-
-
-
-
-
-
+                    </div>
                 </div>
-
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://res.cloudinary.com/hydrow/image/upload/f_auto/w_3840/q_80/v1729014149/PDP/WaveRower/Dimensions_Asset_Wave.png" class="card-img-top3" alt="...">
+                        <div class="card-body">
+                          <h4 class="card-title3">Smart JumpRope</h4>
+                          <p class="d-inline-flex gap-1">
+                            <button class="button3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
+                                Learn more
+                              </button>
+                            </p>
+                            <div class="collapse" id="collapseExample3">
+                                <div class="card card-body">
+                                  Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
 
 
 
