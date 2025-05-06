@@ -149,7 +149,23 @@
         border-radius:10px;
     }
 
+    button {
+    border-radius: 5px;
+    color: white;
+    background-color: #0F5897;
+    padding: 5px 10px 8px 10px;
+  }
 
+  button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+  }
+  @keyframes background-color{
+  100%{
+  background-color:#4791d0;
+  }
+
+  }
 
 
 
@@ -285,8 +301,16 @@
                         <div class="card-body">
                           <h4 class="card1-title">Tonal</h4>
 
-                            
-
+                          <p class="d-inline-flex gap-1">
+                            <button class="button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
+                                Button with data-bs-target
+                              </button>
+                          </p>
+                          <div class="collapse" id="collapseExample1">
+                            <div class="card card-body">
+                              Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
+                            </div>
+                          </div>
 
 
                         </div>
