@@ -32,8 +32,10 @@
 MOST IMPORTANT
 -[adding the content]
 -[aranging pictures with the boxes]
-
-
+-[fixing cards in hardware section]
+-[adding more ]
+-[color and font]
+LEAST IMPORTANT
 ---
 
 #### Beyond MVP
