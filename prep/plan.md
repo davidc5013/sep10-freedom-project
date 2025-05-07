@@ -52,7 +52,7 @@ LEAST IMPORTANT
 <!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
-| ---Aaron Williams----- | Your myp is very detailed, it further elaborates you ideal design and have things that do relate to your topic of fitness indicated by the fitness app.|Your shit is ass, Zendaya theory better|
+| ---Aaron Williams----- | Your myp is very detailed, it further elaborates you ideal design and have things that do relate to your topic of fitness indicated by the fitness app.|Well i believe that your image use can be better, what i mean by this is that your images are very low quality.|
 |   |   |
 |   |   |
 |   |   |
