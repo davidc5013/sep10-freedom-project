@@ -56,7 +56,7 @@ LEAST IMPORTANT
 
 Luciano Rita: your mvp is very responsive and i like the way that it is designed. i think that you should find images that arent blurry and that you should work on the theme of your website. |
 | Abdelrahman  | Colors of introduction area | Add margin and change colors
-|   |   |
+|  Mueller |   |
 |   |   |
 |   |   |
 |   |   |
