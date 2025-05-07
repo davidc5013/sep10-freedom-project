@@ -33,7 +33,7 @@ MOST IMPORTANT
 -[adding the content]
 -[aranging pictures with the boxes]
 -[fixing cards in hardware section]
--[adding more ]
+-[adding more code]
 -[color and font]
 LEAST IMPORTANT
 ---
