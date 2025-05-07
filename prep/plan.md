@@ -29,6 +29,11 @@
 
 * Task/Timeline
 
+MOST IMPORTANT
+-[adding the content]
+-[aranging pictures with the boxes]
+
+
 ---
 
 #### Beyond MVP
