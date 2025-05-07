@@ -54,10 +54,8 @@ LEAST IMPORTANT
 | Name | Glows | Grows |
 | ---Aaron Williams----- | Your myp is very detailed, it further elaborates you ideal design and have things that do relate to your topic of fitness indicated by the fitness app.|Well i believe that your image use can be better, what i mean by this is that your images are very low quality.
 
-Luciano Rita: your mvp is very responsive and i like the way that it is designed. i think that you should find images that arent blurry and that you should work on the theme of your website. 
-
-|
-|   |   |
+Luciano Rita: your mvp is very responsive and i like the way that it is designed. i think that you should find images that arent blurry and that you should work on the theme of your website. |
+| Abdelrahman  | Colors of introduction area | 
 |   |   |
 |   |   |
 |   |   |
