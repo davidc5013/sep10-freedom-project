@@ -52,7 +52,7 @@ LEAST IMPORTANT
 <!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| ---Aaron Williams----- | Your myp is very detailed, it further elaborates you ideal design and have things that do relate to your topic of fitness indicated by the fitness app.| |
 |   |   |
 |   |   |
 |   |   |
