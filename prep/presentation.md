@@ -1,16 +1,23 @@
 # Presentation Plan
 
 ## Hook
-* 
+* say a story on how i wanted a website to inform me starting a fitness journey
 
 ## Product
-* 
+* A small gif of the website
 
 ## Process
-* 
-
+* Getting the parts of the content
+* Making the wireframe
+* making the mvp/bones
+* choosing the tools and adding it to the website
+* small little issues getting introduced as the way go on
+* polishing it a bit.
 ## Conclusion
-* 
+* TakeAways:
+* Know the difference between breaks and procrastinate
+* There would be times where i would do certians parts of the code and make sure it worked then taking small little breaks to refresh but there would be times i just do a bit of work and say i deserve a break then a whole day goes by and i wasted a day where i could check the responsive part, if the animation is there, if the WOW.JS couldve been working
+
 
 <!-- EXAMPLE
 
