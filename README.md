@@ -1,18 +1,19 @@
 # SEP10 Freedom Project
-by **X**
+by **David Culebro**
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
+Whats up, I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project about what I learned in this program year and how I used it to make a final product, which is my website, which informs about the topic I chose at the beginning of the year.
 
-For my project, I chose the topic of **X**. 
-
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+For my project, I chose the topic of **Phsyical Health**. I used the following skills i picked up during the year 
+* Html
+* Css
+  and including a tool i choose independently to make my website stand out, **Animation.css**
 
 ## Links
 
-[Product]()
+[Product](https://davidc5013.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1iRLANMJ1I-qbSP5sLzlNSOym6bGn7S6M_imQ7zS2I8U/edit?slide=id.g35c44ad6fe2_0_12#slide=id.g35c44ad6fe2_0_12)
 
 ## Implications
 ##### PROS
