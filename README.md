@@ -7,8 +7,7 @@ Whats up, I am a student at [HSTAT](https://www.hstat.org/) in the [Software Eng
 For my project, I chose the topic of **Phsyical Health**. I used the following skills i picked up during the year 
 * Html
 * Css
-  and including a tool i choose independently to make my website stand out, **Animation.css**
-
+  and including a tool i choose independently to make my website stand out, **Animation.css** which uses **CSS** and **@keyframes** to make html code have this animation look, making it move.
 ## Links
 
 [Product](https://davidc5013.github.io/sep10-freedom-project/)
@@ -17,9 +16,11 @@ For my project, I chose the topic of **Phsyical Health**. I used the following s
 
 ## Implications
 ##### PROS
-* 
+* My websites give's you pro and cons of certain apps that is about physical fitness and hardwares like equipment that helps you fit into your life.
+* It's able to inform
 ##### CONS
-* 
+* Some of equipment has better versions for cheaper price
+* Not all the hardwares are for everybody because of size, price and uses.
 
 
 ## Blog
